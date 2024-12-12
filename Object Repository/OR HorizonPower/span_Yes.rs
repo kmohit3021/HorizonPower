@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Yes</name>
+   <tag></tag>
+   <elementGuidId>006e7e34-1e6f-44d6-9d1e-b1ddb04835b8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = 'Yes' or . = 'Yes')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#71cf9543-2041-4162-947b-d23ee0739845 > fieldset > label > div.hp-image-select > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[id=&quot;\37 1cf9543-2041-4162-947b-d23ee0739845&quot;] >> internal:text=&quot;Yes&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>dcb428da-3d36-4e6d-b969-acf2a1d86eb9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Yes</value>
+      <webElementGuid>47a9301b-0b81-48d5-8f3b-b999bc84fd31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;71cf9543-2041-4162-947b-d23ee0739845&quot;)/fieldset[1]/label[1]/div[@class=&quot;hp-image-select&quot;]/span[1]</value>
+      <webElementGuid>ce9420d7-b8d8-4453-85a0-2d9afc2db956</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Yes' or . = 'Yes')]</value>
+      <webElementGuid>a7e6b5a0-c495-472d-bb25-c54fdcd05d7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Are you moving in to the property within the next two business days?'])[1]/following::span[1]</value>
+      <webElementGuid>6ce59121-b285-4601-ab64-e49127287fae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='For Business'])[1]/following::span[2]</value>
+      <webElementGuid>99395941-e0a1-4ec8-835c-0622eab4919d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[2]/preceding::span[1]</value>
+      <webElementGuid>e2ed5b11-3986-424b-9f75-1e6d4b2d8820</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='two business days'])[1]/preceding::span[3]</value>
+      <webElementGuid>27f25312-2167-4647-8525-695ce3fb7419</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='71cf9543-2041-4162-947b-d23ee0739845']/fieldset/label/div/span</value>
+      <webElementGuid>579b81f9-8a29-4111-b3e9-16aef67fd24e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/fieldset/label/div/span</value>
+      <webElementGuid>006ecde7-9adf-459e-8f63-012100b86881</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

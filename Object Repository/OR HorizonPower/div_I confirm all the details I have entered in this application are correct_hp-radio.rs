@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_I confirm all the details I have entered in this application are correct_hp-radio</name>
+   <tag></tag>
+   <elementGuidId>dd243cc9-ce50-465d-838d-945e74b7793e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.hp-radio</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='a98cdf20-626e-447b-86b8-a412426785b2']/fieldset/label/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=group[name=&quot;Application Declaration&quot;i] >> div</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>31442336-a9ed-463d-9543-56b4acbdafdd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hp-radio</value>
+      <webElementGuid>f1fe9f31-7309-4f7d-a89e-641701be5541</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;a98cdf20-626e-447b-86b8-a412426785b2&quot;)/fieldset[1]/label[1]/div[@class=&quot;hp-radio&quot;]</value>
+      <webElementGuid>0769ef07-c713-49fe-bacc-65bc421fe24f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='a98cdf20-626e-447b-86b8-a412426785b2']/fieldset/label/div</value>
+      <webElementGuid>8db337f5-f491-4de8-98d7-618c6ae84b6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[4]/div/div/fieldset/label/div</value>
+      <webElementGuid>dd7a43d7-dcc1-4a05-865c-3bf02f4b060d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
