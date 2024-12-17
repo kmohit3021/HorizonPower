@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Main Test Case</name>
+   <name>Test Case - ADO</name>
    <tag></tag>
    <integratedEntity>
       <productName>Azure</productName>

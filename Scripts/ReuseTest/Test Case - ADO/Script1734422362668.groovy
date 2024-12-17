@@ -17,31 +17,11 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-
-/*
- *  Automated web testing script to open a browser, navigate to a specific URL, take screenshots, interact with elements, and wait for elements to be present.
- *
- *  1. Open a browser.
- *  2. Maximize the window.
- *  3. Navigate to a specific URL.
- *  4. Take a full-page screenshot as a checkpoint.
- *  5. Wait for a specific element to be present.
- *  6. Introduce a delay of 5 seconds.
- *  7. Click on a specific element.
- *  8. Click on another specific element.
- *  9. Wait for another element to be present.
- *  10. Take a full-page screenshot as a checkpoint.
- *
- */
- 
-
 WebUI.openBrowser('', FailureHandling.STOP_ON_FAILURE)
 
 WebUI.maximizeWindow(FailureHandling.STOP_ON_FAILURE)
 
 WebUI.navigateToUrl('https://www.horizonpower.com.au/', FailureHandling.STOP_ON_FAILURE)
-
-WebUI.takeFullPageScreenshotAsCheckpoint('HomePage')
 
 WebUI.waitForElementPresent(findTestObject('Object Repository/OR HorizonPower/a_For business'), 30, FailureHandling.STOP_ON_FAILURE)
 
@@ -53,7 +33,5 @@ WebUI.click(findTestObject('Object Repository/OR HorizonPower/span_Create, open 
 
 WebUI.waitForElementPresent(findTestObject('Object Repository/OR HorizonPower/span_Open an account'), 30, FailureHandling.STOP_ON_FAILURE)
 
-WebUI.takeFullPageScreenshotAsCheckpoint('OpenAnAccount')
-
-
+WebUI.closeBrowser()
 
