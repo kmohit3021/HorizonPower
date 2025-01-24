@@ -39,6 +39,8 @@ WebUI.openBrowser('', FailureHandling.STOP_ON_FAILURE)
 
 WebUI.maximizeWindow(FailureHandling.STOP_ON_FAILURE)
 
+WebUI.delay(2)
+
 WebUI.navigateToUrl('https://www.horizonpower.com.au/', FailureHandling.STOP_ON_FAILURE)
 
 WebUI.takeFullPageScreenshotAsCheckpoint('HomePage')
